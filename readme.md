@@ -1,4 +1,4 @@
-# Example ![example workflow](https://github.com/triole/example/actions/workflows/build.yaml/badge.svg)
+# Langdetect ![build](https://github.com/triole/langdetect/actions/workflows/build.yaml/badge.svg)
 
 <!--- mdtoc: toc begin -->
 
