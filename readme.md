@@ -1,4 +1,4 @@
-# Langdetect ![build](https://github.com/triole/langdetect/actions/workflows/build.yaml/badge.svg)
+# Langdetect ![example workflow](https://github.com/triole/example/actions/workflows/build.yaml/badge.svg)
 
 <!--- mdtoc: toc begin -->
 
@@ -6,4 +6,4 @@
 
 ## Synopsis
 
-A very basic command line tool for detecting the language of text files. Just an experiment.
+A very basic command line tool for detecting the language of text files. It uses [lingua-go](https://github.com/pemistahl/lingua-go) and can be considered an experiment.
